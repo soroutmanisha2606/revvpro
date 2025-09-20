@@ -23,7 +23,7 @@ This was a **team project** with 4 members. We collaborated, divided tasks, and 
 
 ## 🌍 LIVE DEPLOYMENT
 
-[View Live Project](https://your-revv-clone-live-link.netlify.app/)  
+[View Live Project](dazzling-pony-c55ac0.netlify.app/)  
 [Original Website](https://www.revv.co.in/)  
 
 ---
